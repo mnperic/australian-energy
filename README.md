@@ -1,5 +1,5 @@
 # Australian Energy – Generation and Usage
-A study of historical Australian fossil fuel and rewneable energy generation and usage.
+A study of historical Australian fossil fuel and renewable energy generation and usage.
 
 ## Overview
 The purpose of this project was to analyse historical Australian energy/electricity generation and usage data from the <b>1970s to present</b>, and identify potential trends based on the use of fossil fuels and renewable energy sources.
